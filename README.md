@@ -1,0 +1,2 @@
+# StonehearthModTranslator
+SMT
