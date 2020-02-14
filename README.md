@@ -1,5 +1,8 @@
 # StonehearthModTranslator
 SMT
+
+如果你想翻译自己想要翻译的MOD  请看这里 <https://github.com/law4x/StonehearthModTranslator/blob/master/README_0.md>
+
 第一步
 下载文件
 ![Image](https://upload.cc/i1/2019/12/22/XNDUSL.png)
